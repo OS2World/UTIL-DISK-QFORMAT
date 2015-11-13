@@ -1,0 +1,9 @@
+qformat.zip    18677
+Contributed by: jgotwals
+qformat ver 1.0 - OS/2 diskette quick format program
+
+qformat ver 1.0 for OS/2.  This program will "quick format" 360KB, 720KB, 
+1.2MB and 1.44MB diskettes.  The program runs in OS/2 Window or full screen
+modes.  C source for the IBM C Set/2 compiler is included.
+
+Keywords: quick format, qformat, os2
